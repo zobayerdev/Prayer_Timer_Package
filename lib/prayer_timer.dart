@@ -1,0 +1,1 @@
+export 'src/prayer_timer.dart';
