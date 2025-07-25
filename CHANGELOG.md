@@ -2,6 +2,11 @@
 
 All notable changes to the `prayer_timer` package will be documented in this file.
 
+## [1.0.4] - 2025-07-25
+
+### Added
+- Update Readme.md file
+
 ## [1.0.3] - 2025-07-25
 
 ### Added

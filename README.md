@@ -19,7 +19,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  prayer_timer: ^1.0.3
+  prayer_timer: ^1.0.4
 ```
 
 Run `flutter pub get` to install the package.
