@@ -6,8 +6,6 @@ A Flutter package to display a customizable circular prayer time timer with a pr
 
 <img width="386" height="251" alt="image" src="https://github.com/user-attachments/assets/98f15f9c-ba14-4196-b91b-000e179e2cfd" />
 
-
-
 ## Features
 - Displays a circular progress bar that decreases as the prayer time progresses (from 100% to 0%).
 - Fetches prayer times from a custom API or the default Aladhan API.
@@ -21,7 +19,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  prayer_timer: ^1.0.0
+  prayer_timer: ^1.0.3
 ```
 
 Run `flutter pub get` to install the package.
@@ -70,10 +68,13 @@ class MyApp extends StatelessWidget {
 - `progressBarColor`: The color of the progress bar (default is Colors.green).
 - `progressBarBackgroundColor`: The background color of the progress bar (default is Colors.grey).
 - `fontColor`: The color of the text (default is Colors.black).
+- `fontName`: The font name use for text color.
+- `containerHeight`: The properties use for container height maintain.
 
 ## Dependencies
 - `http: ^1.2.0`
 - `shared_preferences: ^2.2.3`
+- `google_fonts: ^6.2.1`
 
 ## Example
 An example app is included in the `example` directory. To run it:
