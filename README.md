@@ -4,7 +4,9 @@ A Flutter package to display a customizable circular prayer time timer with a pr
 
 ## Screenshots
 
-![Prayer Timer Preview](https://github.com/zobayerdev/Prayer_Timer_Package/screenshots/image.png)
+<img width="386" height="251" alt="image" src="https://github.com/user-attachments/assets/98f15f9c-ba14-4196-b91b-000e179e2cfd" />
+
+
 
 ## Features
 - Displays a circular progress bar that decreases as the prayer time progresses (from 100% to 0%).
