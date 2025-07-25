@@ -1,7 +1,7 @@
 name: prayer_timer
 description: A Flutter package to display a customizable circular prayer time timer with progress bar for Islamic prayer times, supporting custom APIs and local storage.
-version: 1.0.2
-homepage: https://github.com/yourusername/prayer_timer
+version: 1.0.3
+homepage: https://github.com/zobayerdev/Prayer_Timer_Package/
 
 environment:
   sdk: '^3.7.0'

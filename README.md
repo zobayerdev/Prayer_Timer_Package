@@ -2,6 +2,10 @@
 
 A Flutter package to display a customizable circular prayer time timer with a progress bar for Islamic prayer times. It supports fetching prayer times from a custom API or the default Aladhan API and stores them locally using `shared_preferences`. If no data is available from the API, it displays an error message.
 
+## Screenshots
+
+![Prayer Timer Preview](https://github.com/zobayerdev/Prayer_Timer_Package/screenshots/image.png)
+
 ## Features
 - Displays a circular progress bar that decreases as the prayer time progresses (from 100% to 0%).
 - Fetches prayer times from a custom API or the default Aladhan API.
@@ -46,6 +50,8 @@ class MyApp extends StatelessWidget {
           progressBarColor: Colors.blue,
           progressBarBackgroundColor: Colors.grey[200],
           fontColor: Colors.deepPurple,
+          fontName: 'Hind Siliguri',
+          containerHeight: '250', // Custom font color
         ),
       ),
     );
