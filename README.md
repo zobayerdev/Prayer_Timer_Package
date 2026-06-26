@@ -84,3 +84,4 @@ An example app is included in the `example` directory. To run it:
 
 ## License
 This package is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+"# prayer_timer_package" 
